@@ -1,4 +1,4 @@
-# TJTP1140
+# TJTP1140 - Learning Diary
 
 ### 28.10.2026
 

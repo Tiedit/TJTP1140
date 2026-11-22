@@ -13,7 +13,7 @@ I learned a great deal about ERPs and different companies known for their ERP se
 
 
 ### 05.11.2026
-
+I learned through the exercises how to use SQL to query the Dolibarr hosted ERP system of our surfshop to extract data. This was intriguing as well as educational, as I have never before interacted with an ERP system or written SQL-code.
 
 
 ### 11.11.2026
